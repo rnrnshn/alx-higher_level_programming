@@ -4,4 +4,4 @@ for i in range(1, 90):
         if i < 89:
             print("{0:02d}".format(i), end=', ')
         else:
-            print(i, end='')
+            print(i, end=' ')
