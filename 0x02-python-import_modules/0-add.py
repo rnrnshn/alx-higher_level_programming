@@ -10,3 +10,7 @@ def add(a, b):
         The return value. a + b
     """
     print("{} + {} = {}".format(a, b, (a+b)))
+
+a = 1
+b = 2
+add(a, b)
